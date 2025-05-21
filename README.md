@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an online direct chat app<br><br>🌱 I’m currently mastering Typescript<br><br>👨‍💻 All of my projects destined to clients (websites) are available at https://yael-brinkert.fr<br><br>📫 How to reach me yael.brinkert@gmail.com / contact@yael-brinkert.fr
+🔭 I’m currently working on Reverse Engineering and scraping (it's legal dw lol)<br><br>🌱 I’m currently mastering Typescript<br><br>👨‍💻 All of my projects destined to clients (websites) are available at https://yael-brinkert.fr<br><br>📫 How to reach me yael.brinkert@gmail.com / contact@yael-brinkert.fr
 
 
 ## 🌐 Socials:
